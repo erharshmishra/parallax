@@ -17,9 +17,9 @@ https://parallax-s3pk.onrender.com
 ## 📁 Project Structure
 parallax-website/ <br>
 │ <br>
-├── index.html # Main HTML file <br>
-├── style.css # CSS for styling and parallax effects <br>
-└── README.md # Project documentation (this file) <br>
+├── index.html  #Main HTML file <br>
+├── style.css  #CSS for styling and parallax effects <br>
+└── README.md  #Project documentation (this file) <br>
 
 ## 📸 Sections Overview
 - **Section One**: Introduction to the site
