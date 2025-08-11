@@ -3,6 +3,9 @@
 ## 🌄 Parallax Scrolling Website
 This is a simple parallax scrolling webpage created using **HTML** and **CSS**, showcasing visually engaging transitions between different sections. Each section combines immersive imagery with placeholder text to demonstrate the power of the parallax effect.
 
+## Preview
+https://parallax-s3pk.onrender.com
+
 ## 🚀 Features
 - Smooth parallax scrolling effect
 - Responsive layout for various screen sizes
