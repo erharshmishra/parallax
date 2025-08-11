@@ -38,44 +38,8 @@ parallax-website/
 2. Open `index.html` in a web browser.
 3. Make sure `style.css` is in the same directory as `index.html`.
 
-## 📦 Example CSS (for parallax)
-
-You should use a `style.css` like this to achieve the parallax effect:
-
-```css
-.div1, .div2, .div3, .div4 {
-    height: 100vh;
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-.div1 {
-    background-image: url('images/nature1.jpg');
-}
-
-.div2 {
-    background-image: url('images/nature2.jpg');
-}
-
-.div3 {
-    background-image: url('images/nature3.jpg');
-}
-
-.div4 {
-    background-image: url('images/code.jpg');
-}
-
-.content1, .content2, .content3 {
-    padding: 50px;
-    background-color: #fff;
-}
-
 👤 Author
 Harsh Mishra
-
-Made with ❤️ in 2025
 
 📄 License
 This project is licensed for educational and personal use. If you plan to use it commercially, please credit the author.
